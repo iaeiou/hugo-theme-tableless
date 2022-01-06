@@ -1,6 +1,6 @@
 ---
 type: post
-title: Por que criar um site empresarial?
+title: Por que criar um site empresarial? Porque no?
 excerpt: Ter presença digital não se trata de um adereço, mas de uma necessidade.
 authors: Tableless
 date: 2021-09-28
