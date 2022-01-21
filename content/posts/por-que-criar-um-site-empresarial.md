@@ -1,6 +1,6 @@
 ---
 type: post
-title: Por que criar um site empresarial?
+title: Como criar um site empresarial?
 excerpt: Sua empresa ou pequeno negócio precisa de um site profissional para
   alavancar vendas
 authors: Tableless
