@@ -3,7 +3,7 @@ title: A pasta “res” e os resources em um projeto Android
 authors: Mário Valney
 type: post
 date: 2015-04-15
-excerpt: É preciso mais do que código para fazer um aplicativo para Android. E por mais que amemos código, temos que entender como usar todos os resources de um App.
+excerpt:  É preciso mais do que código para fazer um aplicativo para Android. E por mais que amemos código, temos que entender como usar todos os resources de um App.
 url: /a-pasta-res-e-os-resources-em-um-projeto-android/
 categories:
   - Código

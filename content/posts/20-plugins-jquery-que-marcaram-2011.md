@@ -1,5 +1,5 @@
 ---
-title: 20 plugins jQuery que marcaram 2011
+title: Aute exercitation amet mollit culpa et et commodo ut proident pariatu.
 authors: Davi Ferreira
 type: post
 date: 2011-12-15
